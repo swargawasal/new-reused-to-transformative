@@ -19,9 +19,9 @@ soundfile==0.12.1
 scipy==1.11.4
 
 # AI Enhancement (PyTorch) - Python 3.12 compatible versions
-torch>=2.2.0
-torchvision>=0.17.0
-torchaudio>=2.2.0
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
 
 # RealESRGAN & GFPGAN
 realesrgan==0.3.0
@@ -37,4 +37,5 @@ Pillow==10.1.0
 google-api-python-client==2.108.0
 google-auth-oauthlib==1.1.0
 google-auth-httplib2==0.1.1
+
 
